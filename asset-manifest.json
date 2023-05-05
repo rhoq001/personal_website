@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/quote-machine/static/css/main.6103433c.css",
-    "main.js": "/quote-machine/static/js/main.c9b7c635.js",
-    "static/media/portfolio5.png": "/quote-machine/static/media/portfolio5.98b5e405a47043767af4.png",
-    "static/media/portfolio8.png": "/quote-machine/static/media/portfolio8.14076e6a2446a902792e.png",
-    "static/media/portfolio7.png": "/quote-machine/static/media/portfolio7.9841d43bdaacf989a824.png",
-    "static/media/me.png": "/quote-machine/static/media/me.7adb52c67c7b4116b1de.png",
-    "static/media/portfolio9.png": "/quote-machine/static/media/portfolio9.5f47b58981115faaff46.png",
-    "static/media/resume.jpg": "/quote-machine/static/media/resume.1cefb6dadb0f5cb39ee6.jpg",
-    "static/media/bg-texture.png": "/quote-machine/static/media/bg-texture.42099aa54eaf28dc70e2.png",
-    "static/media/portfolio3.jpg": "/quote-machine/static/media/portfolio3.5b0fefe88da61ab710a5.jpg",
-    "static/media/portfolio2.jpg": "/quote-machine/static/media/portfolio2.5a1e16edeba2f70adad2.jpg",
-    "static/media/portfolio4.jpg": "/quote-machine/static/media/portfolio4.4a51e1169e85732dc5f5.jpg",
-    "static/media/portfolio6.jpg": "/quote-machine/static/media/portfolio6.f437ea9a23d1badafa5f.jpg",
-    "static/media/portfolio1.jpg": "/quote-machine/static/media/portfolio1.d9246019f11aadf1d305.jpg",
-    "index.html": "/quote-machine/index.html",
-    "main.6103433c.css.map": "/quote-machine/static/css/main.6103433c.css.map",
-    "main.c9b7c635.js.map": "/quote-machine/static/js/main.c9b7c635.js.map"
+    "main.css": "/personal_website/static/css/main.7ba59c14.css",
+    "main.js": "/personal_website/static/js/main.c3d2410c.js",
+    "static/media/portfolio5.png": "/personal_website/static/media/portfolio5.98b5e405a47043767af4.png",
+    "static/media/portfolio8.png": "/personal_website/static/media/portfolio8.14076e6a2446a902792e.png",
+    "static/media/portfolio7.png": "/personal_website/static/media/portfolio7.9841d43bdaacf989a824.png",
+    "static/media/me.png": "/personal_website/static/media/me.7adb52c67c7b4116b1de.png",
+    "static/media/portfolio9.png": "/personal_website/static/media/portfolio9.5f47b58981115faaff46.png",
+    "static/media/resume.jpg": "/personal_website/static/media/resume.1cefb6dadb0f5cb39ee6.jpg",
+    "static/media/bg-texture.png": "/personal_website/static/media/bg-texture.42099aa54eaf28dc70e2.png",
+    "static/media/portfolio3.jpg": "/personal_website/static/media/portfolio3.5b0fefe88da61ab710a5.jpg",
+    "static/media/portfolio2.jpg": "/personal_website/static/media/portfolio2.5a1e16edeba2f70adad2.jpg",
+    "static/media/portfolio4.jpg": "/personal_website/static/media/portfolio4.4a51e1169e85732dc5f5.jpg",
+    "static/media/portfolio6.jpg": "/personal_website/static/media/portfolio6.f437ea9a23d1badafa5f.jpg",
+    "static/media/portfolio1.jpg": "/personal_website/static/media/portfolio1.d9246019f11aadf1d305.jpg",
+    "index.html": "/personal_website/index.html",
+    "main.7ba59c14.css.map": "/personal_website/static/css/main.7ba59c14.css.map",
+    "main.c3d2410c.js.map": "/personal_website/static/js/main.c3d2410c.js.map"
   },
   "entrypoints": [
-    "static/css/main.6103433c.css",
-    "static/js/main.c9b7c635.js"
+    "static/css/main.7ba59c14.css",
+    "static/js/main.c3d2410c.js"
   ]
 }
